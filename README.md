@@ -13,9 +13,9 @@ Built using the LangChain framework, the project implements two types of RAG sys
 - Conversational Retrieval Chain with memory support
 
 ### Open-Source Language Models:
--Flan-T5 small
--Flan-T5 base
--Flan-T5 large
+- Flan-T5 small
+- Flan-T5 base
+- Flan-T5 large
 
 ### Baseline Comparison: 
 The project also includes a Retrieval-Based Question Answering System (without LLMs) for performance comparison.
