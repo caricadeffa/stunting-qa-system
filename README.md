@@ -29,6 +29,9 @@ The system is evaluated using 15 question-answer pairs that are categorized into
 - Related questions: A sequence of related questions that form a chain.
 
 ## How to Replicate
+### Download All Files:
+Ensure you download all the necessary files from the repository, including the Jupyter Notebook, data files, and any other resources required for the project.
+
 ### Run the Question Answering System Stunting code:
 - Start by installing all the necessary libraries.
 - Then, proceed to crawl and scrape data from relevant sources.
