@@ -12,18 +12,18 @@ Built using the LangChain framework, the project implements two types of RAG sys
 - Retrieval QA Chain
 - Conversational Retrieval Chain with memory support
 
-###Open-Source Language Models:
+### Open-Source Language Models:
 -Flan-T5 small
 -Flan-T5 base
 -Flan-T5 large
 
-###Baseline Comparison: 
+### Baseline Comparison: 
 The project also includes a Retrieval-Based Question Answering System (without LLMs) for performance comparison.
 
-##Data Source
+## Data Source
 The external data used by the RAG systems is pulled from the Cegah Stunting website.
 
-##Evaluation
+## Evaluation
 The system is evaluated using 15 question-answer pairs that are categorized into:
 - Independent questions: Stand-alone questions with no relation to previous ones.
 - Related questions: A sequence of related questions that form a chain.
