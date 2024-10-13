@@ -27,3 +27,16 @@ The external data used by the RAG systems is pulled from the Cegah Stunting webs
 The system is evaluated using 15 question-answer pairs that are categorized into:
 - Independent questions: Stand-alone questions with no relation to previous ones.
 - Related questions: A sequence of related questions that form a chain.
+
+## How to Replicate
+### Run the Question Answering System Stunting code:
+- Start by installing all the necessary libraries.
+- Then, proceed to crawl and scrape data from relevant sources.
+- Process the retrieved data by performing preprocessing.
+- Save the processed documents in JSON format.
+
+### Run evaluation code:
+- After saving the documents, open the evaluation section in the notebook.
+- There are two types of evaluations that can be conducted: related questions and independent questions.
+- To perform the evaluation, run all the steps from the beginning to the end.
+- In the Load Dataset QA section, input the Excel file containing 15 question-answer pairs.
